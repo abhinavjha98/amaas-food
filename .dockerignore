@@ -1,0 +1,20 @@
+# Docker ignore files
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache
+**/venv
+**/env
+**/.env
+**/.git
+**/.gitignore
+**/node_modules
+**/dist
+**/build
+**/.vscode
+**/.idea
+**/*.db
+**/*.sqlite
+**/*.log
+**/data/*.db
